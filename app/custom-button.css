@@ -1,0 +1,83 @@
+.btn {
+  position: relative;
+}
+
+.btn::before,
+.btn::after {
+  content: "";
+  position: absolute;
+  top: 0;
+}
+
+.btn::after {
+  width: calc(100% + 6px);
+  height: 100%;
+  z-index: 2;
+  left: -3px;
+  background: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_left-oS4gSgIbHzacJPhxkdy439dSIvhsRB.png")
+    left center / auto 100% no-repeat,
+    url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_right-D2erGMEqvd01Kk4K2rynDUoxQvdvMO.png")
+    right center / auto 100% no-repeat;
+}
+
+.btn::before {
+  height: 100%;
+  z-index: 1;
+  left: 50%;
+  transform: translateX(-50%);
+  background: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_middle-O4426m3uVxk9u8eeyh7MOzfx37Ri1j.png")
+    center center / auto 100% repeat-x;
+}
+
+/* Estilos específicos para el botón de jugar */
+.btn-play {
+  padding: 0 60px !important;
+  min-width: 260px !important; /* Increased minimum width */
+}
+
+.btn-play::before {
+  width: calc(100% - 106px); /* Restored original width for play button */
+}
+
+/* Estilos específicos para el botón de registro */
+.btn-register {
+  padding: 0 30px !important;
+}
+
+.btn-register::before {
+  width: calc(100% - 60px);
+}
+
+.btn--grey::after,
+.btn--yellow::after {
+  background: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_left-oS4gSgIbHzacJPhxkdy439dSIvhsRB.png")
+    left center / auto 100% no-repeat,
+    url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_right-D2erGMEqvd01Kk4K2rynDUoxQvdvMO.png")
+    right center / auto 100% no-repeat;
+}
+
+.btn--grey::before,
+.btn--yellow::before {
+  background: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_middle-O4426m3uVxk9u8eeyh7MOzfx37Ri1j.png")
+    center center / auto 100% repeat-x;
+}
+
+.btn-hamburger {
+  padding: 0 27px !important;
+}
+
+.btn-hamburger::before {
+  width: calc(100% - 54px);
+}
+
+.btn-hamburger::after {
+  width: calc(100% + 6px);
+  height: 100%;
+  z-index: 2;
+  left: -3px;
+  background: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_left-oS4gSgIbHzacJPhxkdy439dSIvhsRB.png")
+    left center / auto 100% no-repeat,
+    url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg_btn_red_right-D2erGMEqvd01Kk4K2rynDUoxQvdvMO.png")
+    right center / auto 100% no-repeat;
+}
+

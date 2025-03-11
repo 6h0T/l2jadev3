@@ -1,0 +1,288 @@
+{
+  "navigation": {
+    "hero": "Início",
+    "about": "Sobre",
+    "information": "Informação",
+    "downloads": "Downloads",
+    "contact": "Contato",
+    "register": "Registro / Painel"
+  },
+  "hero": {
+    "monthsWithYou": "meses com você",
+    "playNow": "Jogue Agora"
+  },
+  "about": {
+    "title": "Bem-vindo ao L2Jade!",
+    "description": "Temos o prazer de anunciar o lançamento do L2Jade, nosso novo servidor de Lineage 2, meticulosamente projetado para oferecer a experiência definitiva deste MMORPG icônico. Nosso objetivo é proporcionar um ambiente equilibrado, desafiador e emocionante onde os jogadores possam reviver a glória do Lineage 2 e forjar novas lendas.",
+    "features": {
+      "stability": {
+        "title": "Estabilidade",
+        "description": "Experimente um ambiente de jogo robusto e confiável com nossos servidores de alto desempenho"
+      },
+      "anticheat": {
+        "title": "Anticheat",
+        "description": "Sistemas de proteção avançados garantindo jogo justo para todos os jogadores"
+      },
+      "competition": {
+        "title": "Competição",
+        "description": "Participe de emocionantes batalhas PvP e compita por recompensas épicas"
+      },
+      "noP2W": {
+        "title": "Sem P2W",
+        "description": "Oportunidades iguais para todos os jogadores, sucesso baseado em habilidade e dedicação"
+      }
+    }
+  },
+  "information": {
+    "title": "Informações do Jogo",
+    "description": "Tudo o que você precisa saber sobre nosso servidor de Lineage II",
+    "tabs": {
+      "general": "Geral",
+      "rates": "Taxas",
+      "enchants": "Encantamentos",
+      "augments": "Aumentos",
+      "olympiads": "Olimpíadas",
+      "sieges": "Cercos",
+      "clans": "Clãs",
+      "raidBosses": "Chefes de Raid",
+      "farmZones": "Zonas de Farm",
+      "rules": "Regras"
+    },
+    "content": {
+      "general": {
+        "title": "Informações Gerais",
+        "items": [
+          "Horário: GMT-3 (Argentina)",
+          "Lineage II Interlude C6",
+          "Stuck Sub main +1 (3ª Classe em um)",
+          "Npc Buffer full buff grátis",
+          "Buff Slot 30 + 4 (Divine Inspiration)",
+          "Tempo de Buff: 60 minutos",
+          "Gm Shop até grau S (A/S Mid-Farm)",
+          "2 Clientes por PC",
+          "L2OFF Geodata",
+          "Coleta automática de drops exceto para Raids",
+          "Loja offline habilitada",
+          "Mudanças de classe gratuitas por NPC",
+          "Aprendizagem automática de habilidades",
+          "Divine Inspiration: À venda na Loja",
+          "Status Noblesse (carta de Caradine nível 75 à venda)",
+          "Mudanças de aparência de raça e gênero autogerenciáveis por Community (Alt + B)",
+          "Recompensa por votos individuais em diferentes rankings web"
+        ],
+        "questSystem": {
+          "title": "Sistema de Missões",
+          "description": "A maioria das missões recompensa com Moedas de Doação como uma forma alternativa de obter essas moedas. Essas missões envolvem matar Mobs, Raids, Encantar, Aumentar e outras."
+        }
+      },
+      "rates": {
+        "title": "Taxas",
+        "items": [
+          "EXP/SP x30 (VIP +30%, Bônus de Runas +20%)",
+          "Adena x40 (VIP +30%, Bônus de Runas +20%)",
+          "Drop x1 (VIP +30%, Bônus de Runas +20%)",
+          "Spoil x1 (VIP +30%, Bônus de Runas +20%)",
+          "Missões: x1",
+          "Manor: x1",
+          "Pedras de Selo: x1",
+          "RB EXP/SP x3",
+          "RB Drop x1",
+          "Epic RB Drop x1"
+        ]
+      },
+      "enchants": {
+        "title": "Encantamentos",
+        "items": [
+          "Encantamento seguro: 3",
+          "Encantamento máximo +18",
+          "Taxa de Pergaminho de Encantamento:",
+          "- de +3 a +8 60%",
+          "- De +8 a +11 50%",
+          "- De +11 a +15 40%",
+          "- De 15 a 18 30%",
+          "Pergaminho Jade 10% (Mantém o encantamento se falhar)"
+        ]
+      },
+      "augments": {
+        "title": "Aumentos",
+        "items": ["Life Stone de grau superior: 10% de chance", "Apenas um Aumento pode ser usado"]
+      },
+      "olympiads": {
+        "title": "Olimpíadas",
+        "items": [
+          "O status de Herói é obtido apenas através das Olimpíadas",
+          "Período a cada 15 dias",
+          "Dias de Olimpíada: Terça e Quinta (Os Heróis serão premiados nas sextas-feiras às 12h)",
+          "Horários: Começa às 22:00 e termina às 00:00 (GMT-3)",
+          "Local de registro: Cidade de Giran",
+          "Encantamento de status +6",
+          "Olimpíadas Retail (Sem buffs e sem poções)",
+          "Requisito para se tornar herói: 9 lutas mínimas, pelo menos 1 vencida e ser primeiro no ranking"
+        ]
+      },
+      "sieges": {
+        "title": "Cercos",
+        "items": [
+          "Cerco a cada 7 dias",
+          "Duração de 2 horas",
+          "3 Castelos habilitados (Giran, Aden e Goddard)",
+          "Benefícios para todos os membros do clã ao obter um castelo: Habilidade Passiva de Cerco",
+          "Castelos exclusivos para eventos com prêmios em dinheiro"
+        ]
+      },
+      "clans": {
+        "title": "Clãs",
+        "items": [
+          "Royal Guard e Knight Guard Habilitados",
+          "Não é permitido criar alianças com outros clãs",
+          "Limite de membros por clã: 50",
+          "Clã de nível completo e habilidades acessíveis"
+        ]
+      },
+      "raidBosses": {
+        "title": "Tempo de Reaparecimento de Chefes de Raid",
+        "items": [
+          "Barakiel: Todos os dias às 21:00 hs (Noblesse para todo o grupo - último golpe)",
+          "Anakim/Lilith: Todos os dias às 15:00 e 23:00 hs (Raids Especiais para Sistema de Evolução)",
+          "Chefes épicos:",
+          "- Queen Ant: Sexta-feira 23:00 hs",
+          "- Core: Sexta-feira 22:00 hs",
+          "- Orfen: Sexta-feira 22:00 hs",
+          "- Baium: Sábado 23:00 hs",
+          "- Antharas: Domingo 22:00 hs",
+          "- Valakas: Domingo 23:00 hs",
+          "- Zaken: Sexta-feira 23:00 hs",
+          "- Frintezza: Sábado 22:00 hs"
+        ],
+        "note": "Os chefes épicos das sextas-feiras alternam no mesmo horário, ou seja, uma sexta-feira é Zaken e na seguinte é Queen Ant. O mesmo se aplica a Core e Orfen."
+      },
+      "farmZones": {
+        "title": "Zonas de Farm",
+        "varkaSilenos": {
+          "title": "Varka's Silenos",
+          "drops": [
+            "Adena: 1.5kk",
+            "Armas S",
+            "Armadura A-S",
+            "Event Glittering",
+            "Coin Rebirth",
+            "Ews-Eas-Eaa",
+            "Bews-Beas-Beaa",
+            "Top-Grade Life Stone: nível 76",
+            "Secret Book of Giants",
+            "Jade Scroll",
+            "Dungeon Coupon",
+            "Letras: L I N E A G E 2 J A D E"
+          ]
+        },
+        "pvpFarm": {
+          "title": "Farm PvP (Zonas rotativas a cada 2 horas)",
+          "drops": [
+            "Adena: 2.5kk",
+            "Armas S",
+            "Armadura A-S",
+            "Event Glittering",
+            "Ews-Eas-Eaa",
+            "Bews-Beas-Beaa",
+            "Top-Grade Life Stone: nível 76",
+            "Secret Book of Giants",
+            "Box Jewel Boss",
+            "Jade Scroll",
+            "Rebirth Coin (Em breve)",
+            "Dungeon Coupon",
+            "Letras: L I N E A G E 2 J A D E"
+          ]
+        }
+      },
+      "rules": {
+        "title": "Regras da Comunidade",
+        "items": [
+          {
+            "title": "Regra 1: Respeito e Conduta",
+            "content": "O respeito é estabelecido como princípio fundamental no âmbito das relações dadas neste servidor (jogador e jogador, jogador e GM/administradores). O propósito deste servidor é entretenimento e diversão. Qualquer um que viole esta regulamentação estará sujeito a um banimento (temporário ou permanente conforme apropriado) de uma conta."
+          },
+          {
+            "title": "Regra 2: Relato de Bugs",
+            "content": "O conteúdo do servidor foi testado em sua maior parte, mas como é de conhecimento público, este jogo é imensurável, assim como suas possibilidades. Será dever do jogador relatar quaisquer bugs que encontrar, assim a administração se compromete a corrigir os demais defeitos e irregularidades detectados, entendendo-o como essencial para alcançar um servidor potencialmente perfeito."
+          },
+          {
+            "title": "Regra 3: Nomes Inapropriados",
+            "content": "Reservamo-nos o direito de solicitar a um jogador que mude seu nome e/ou título se for considerado inapropriado/ofensivo/reservado para GMS, etc. O personagem será notificado e permitido escolher um novo nome sem custo e nenhuma ação adicional será tomada. Se o jogador se recusar a cooperar, a equipe pode alterar o nome do personagem a seu próprio critério, bem como aplicar a punição correspondente."
+          },
+          {
+            "title": "Regra 4: Venda de Itens",
+            "content": "A venda de qualquer item deste jogo por dinheiro legal é proibida, se feita, será realizado o banimento de ambos os sujeitos (VENDEDOR E COMPRADOR)."
+          },
+          {
+            "title": "Regra 5: SPAM e Publicidade",
+            "content": "SPAM de outros servidores no jogo resultará em um banimento permanente da conta do jogador."
+          },
+          {
+            "title": "Regra 6: Responsabilidade da Conta",
+            "content": "Os dados do usuário (precisão e manutenção) são de sua exclusiva responsabilidade. É seu dever cuidar e mantê-los atualizados (e-mail em caso de perda de senha). A administração não é responsável por dados esquecidos, perdidos, excluídos ou cancelados por qualquer motivo."
+          },
+          {
+            "title": "Regra 7: Doações",
+            "content": "O que é dado como doação não será devolvido, será utilizado na íntegra para melhorias e manutenção do jogo."
+          },
+          {
+            "title": "Regra 8: Ações Anti-Jogo",
+            "content": "Ações que a administração considere anti-jogo (ações inadequadas ou más) estarão sujeitas a punição, entendidas como: perder intencionalmente na Grande Olimpíada para dar pontos a outro personagem; interromper ou tentar enganar eventos automáticos ou feitos pela administração; Tentar enganar outros jogadores oferecendo itens falsos."
+          },
+          {
+            "title": "Regra 9: Programas Externos",
+            "content": "O uso externo de programas que interagem com o jogo é estritamente proibido. Por exemplo, aqueles usados com a intenção de usar bots, auto farmer. Os relatórios para esses casos estão abertos, anexando evidências, nome do personagem, a equipe sancionará o mesmo."
+          },
+          {
+            "title": "Regra 10: Responsabilidade da Administração",
+            "content": "A administração e GMs não são responsáveis por perda de itens, habilidades, etc., por qualquer motivo, sejam quedas ou reinícios do servidor, erros do sistema, bugs, invasões, rollbacks e/ou mau manuseio do usuário."
+          }
+        ],
+        "lastUpdate": "Última atualização: 03/09/2024"
+      }
+    }
+  },
+  "downloads": {
+    "title": "Downloads",
+    "description": "Obtenha tudo o que você precisa para começar sua aventura no mundo de Lineage II",
+    "gameClient": {
+      "title": "Cliente do Jogo",
+      "description": "Pacote de instalação completo do jogo",
+      "version": "Versão:",
+      "size": "Tamanho:",
+      "downloadGDrive": "Baixar do Google Drive",
+      "downloadMediaFire": "Baixar do MediaFire"
+    },
+    "l2JadeClient": {
+      "title": "Cliente L2 Jade",
+      "description": "Último cliente L2 Jade",
+      "version": "Versão:",
+      "size": "Tamanho:",
+      "downloadGDrive": "Baixar do Google Drive",
+      "downloadMediaFire": "Baixar do MediaFire"
+    }
+  },
+  "contact": {
+    "title": "Contate-nos",
+    "description": "Tem perguntas ou precisa de assistência? Entre em contato com nossa equipe de suporte",
+    "emailSupport": {
+      "title": "Suporte por E-mail",
+      "email": "support@l2jade.com"
+    },
+    "liveChat": {
+      "title": "Chat ao Vivo",
+      "description": "Disponível 24/7 através do cliente do jogo"
+    },
+    "connectWithUs": {
+      "title": "Conecte-se Conosco"
+    }
+  },
+  "footer": {
+    "allRightsReserved": "Todos os direitos reservados.",
+    "designedBy": "Projetado por"
+  },
+  "voteButtons": {
+    "vote": "Votar"
+  }
+}
+

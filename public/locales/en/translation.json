@@ -1,0 +1,288 @@
+{
+  "navigation": {
+    "hero": "Home",
+    "about": "About",
+    "information": "Information",
+    "downloads": "Downloads",
+    "contact": "Contact",
+    "register": "Register / Panel"
+  },
+  "hero": {
+    "monthsWithYou": "months with you",
+    "playNow": "Play Now"
+  },
+  "about": {
+    "title": "Welcome to L2Jade!",
+    "description": "We are pleased to announce the launch of L2Jade, our new Lineage 2 server, meticulously designed to offer the ultimate experience of this iconic MMORPG. Our goal is to provide a balanced, challenging, and exciting environment where players can relive the glory of Lineage 2 and forge new legends.",
+    "features": {
+      "stability": {
+        "title": "Stability",
+        "description": "Experience a robust and reliable gaming environment with our high-performance servers"
+      },
+      "anticheat": {
+        "title": "Anticheat",
+        "description": "Advanced protection systems ensuring fair play for all players"
+      },
+      "competition": {
+        "title": "Competition",
+        "description": "Engage in thrilling PvP battles and compete for epic rewards"
+      },
+      "noP2W": {
+        "title": "No P2W",
+        "description": "Equal opportunities for all players, success based on skill and dedication"
+      }
+    }
+  },
+  "information": {
+    "title": "Game Information",
+    "description": "Everything you need to know about our Lineage II server",
+    "tabs": {
+      "general": "General",
+      "rates": "Rates",
+      "enchants": "Enchants",
+      "augments": "Augments",
+      "olympiads": "Olympiads",
+      "sieges": "Sieges",
+      "clans": "Clans",
+      "raidBosses": "Raid Bosses",
+      "farmZones": "Farm Zones",
+      "rules": "Rules"
+    },
+    "content": {
+      "general": {
+        "title": "General Information",
+        "items": [
+          "Schedule: GMT-3 (Argentina)",
+          "Lineage II Interlude C6",
+          "Stuck Sub main +1 (3rd Class in one)",
+          "Free Npc Buffer full buff",
+          "Buff Slot 30 + 4 (Divine Inspiration)",
+          "Buff Time: 60 minutes",
+          "Gm Shop up to S grade (A/S Mid-Farm)",
+          "2 Clients per PC",
+          "L2OFF Geodata",
+          "Automatic drop collection except for Raids",
+          "Offline store enabled",
+          "Free class changes by NPC",
+          "Automatic Skill Learning",
+          "Divine Inspiration: For sale in the Shop",
+          "Noblesse Status (Caradine letter lvl 75 for sale)",
+          "Self-manageable Race and Gender Appearance Changes by Community (Alt + B)",
+          "Reward for individual votes in different web rankings"
+        ],
+        "questSystem": {
+          "title": "Quest System",
+          "description": "Most quests reward Donate Coins as an alternative way to obtain these coins. These quests involve killing Mobs, Raids, Enchanting, Augmenting, and others."
+        }
+      },
+      "rates": {
+        "title": "Rates",
+        "items": [
+          "EXP/SP x30 (VIP +30%, Runes Bonus +20%)",
+          "Adena x40 (VIP +30%, Runes Bonus +20%)",
+          "Drop x1 (VIP +30%, Runes Bonus +20%)",
+          "Spoil x1 (VIP +30%, Runes Bonus +20%)",
+          "Quest: x1",
+          "Manor: x1",
+          "Seal Stones: x1",
+          "RB EXP/SP x3",
+          "RB Drop x1",
+          "Epic RB Drop x1"
+        ]
+      },
+      "enchants": {
+        "title": "Enchants",
+        "items": [
+          "Safe enchant: 3",
+          "Maximum Enchant +18",
+          "Rate Enchant Scroll:",
+          "- from +3 to +8 60%",
+          "- From +8 to +11 50%",
+          "- From +11 to +15 40%",
+          "- From 15 to 18 30%",
+          "Jade Scroll 10% (Maintains the enchant if it fails)"
+        ]
+      },
+      "augments": {
+        "title": "Augments",
+        "items": ["Top Life Stone: 10% chance", "Only one Augment can be used"]
+      },
+      "olympiads": {
+        "title": "Olympiads",
+        "items": [
+          "Hero status is obtained only through Olympiads",
+          "Period every 15 days",
+          "Olympiad Days: Tuesday and Thursday (Heroes will be awarded on Fridays at 12 pm)",
+          "Times: Starts at 22:00 and ends at 00:00 (GMT-3)",
+          "Registration place: Giran City",
+          "Status enchant +6",
+          "Retail Olympiads (No buffs and no potions)",
+          "Requirement to become a hero: 9 minimum fights, at least 1 won and be first in the ranking"
+        ]
+      },
+      "sieges": {
+        "title": "Sieges",
+        "items": [
+          "Siege every 7 days",
+          "Duration 2 hours",
+          "3 Castles enabled (Giran, Aden, and Goddard)",
+          "Benefits for all clan members upon obtaining a castle: Passive Siege Skill",
+          "Exclusive castles for events with cash prizes"
+        ]
+      },
+      "clans": {
+        "title": "Clans",
+        "items": [
+          "Royal Guard and Knight Guard Enabled",
+          "It is not allowed to create alliances with other clans",
+          "Limit of members per clan: 50",
+          "Full level clan and accessible skills"
+        ]
+      },
+      "raidBosses": {
+        "title": "Raid Boss Respawn Time",
+        "items": [
+          "Barakiel: Every day at 21:00 hs (Noblesse all party - last hit)",
+          "Anakim/Lilith: Every day at 15:00 and 23:00 hs (Special Raids for Evolution System)",
+          "Epic bosses:",
+          "- Queen Ant: Friday 23:00 hs",
+          "- Core: Friday 22:00 hs",
+          "- Orfen: Friday 22:00 hs",
+          "- Baium: Saturday 23:00 hs",
+          "- Antharas: Sunday 22:00 hs",
+          "- Valakas: Sunday 23:00 hs",
+          "- Zaken: Friday 23:00 hs",
+          "- Frintezza: Saturday 22:00 hs"
+        ],
+        "note": "The epic bosses on Fridays alternate at the same time, meaning one Friday is Zaken and the next is Queen Ant. The same applies to Core and Orfen."
+      },
+      "farmZones": {
+        "title": "Farm Zones",
+        "varkaSilenos": {
+          "title": "Varka's Silenos",
+          "drops": [
+            "Adena: 1.5kk",
+            "Weapons S",
+            "Armor A-S",
+            "Event Glittering",
+            "Coin Rebirth",
+            "Ews-Eas-Eaa",
+            "Bews-Beas-Beaa",
+            "Top-Grade Life Stone: level 76",
+            "Secret Book of Giants",
+            "Jade Scroll",
+            "Dungeon Coupon",
+            "Letters: L I N E A G E 2 J A D E"
+          ]
+        },
+        "pvpFarm": {
+          "title": "Farm PvP (Rotating zones every 2 hours)",
+          "drops": [
+            "Adena: 2.5kk",
+            "Weapons S",
+            "Armor A-S",
+            "Event Glittering",
+            "Ews-Eas-Eaa",
+            "Bews-Beas-Beaa",
+            "Top-Grade Life Stone: level 76",
+            "Secret Book of Giants",
+            "Box Jewel Boss",
+            "Jade Scroll",
+            "Rebirth Coin (Coming Soon)",
+            "Dungeon Coupon",
+            "Letters: L I N E A G E 2 J A D E"
+          ]
+        }
+      },
+      "rules": {
+        "title": "Community Rules",
+        "items": [
+          {
+            "title": "Rule 1: Respect and Conduct",
+            "content": "Respect is established as a fundamental principle in the framework of the relationships given on this server (player and player, player and GM/administrators). The purpose of this server is entertainment and enjoyment. Anyone who violates this regulation will be subject to a ban (temporary or permanent as appropriate) of an account."
+          },
+          {
+            "title": "Rule 2: Reporting Bugs",
+            "content": "The server content has been tested for the most part, but as is publicly known, this game is immeasurable, as well as its possibilities. It will be the player's duty to report any bugs they find, thus the administration commits to fixing the other defects and irregularities detected, understanding it as essential to achieve a potentially perfect server."
+          },
+          {
+            "title": "Rule 3: Inappropriate Names",
+            "content": "We reserve the right to request a player to change their name and/or title if it is considered inappropriate/offensive/reserved for GMS, etc. The character will be notified and allowed to choose a new name at no charge and no further action will be taken. If the player refuses to cooperate, the staff may change the character's name at their own discretion, as well as apply the corresponding punishment."
+          },
+          {
+            "title": "Rule 4: Item Sales",
+            "content": "The sale of any item from this game for legal tender is prohibited, if done so, the ban of both subjects (SELLER AND BUYER) will be carried out."
+          },
+          {
+            "title": "Rule 5: SPAM and Advertising",
+            "content": "SPAM from other servers in the game will result in a permanent ban of the player's account."
+          },
+          {
+            "title": "Rule 6: Account Responsibility",
+            "content": "User data (accuracy and maintenance) is their sole responsibility. It is their duty to take care of and keep them updated (email in case of password loss). The administration is not responsible for forgotten, lost, deleted, or canceled data for any reason."
+          },
+          {
+            "title": "Rule 7: Donations",
+            "content": "What is given as a donation will not be returned, it will be used in its entirety for improvements and maintenance of the game."
+          },
+          {
+            "title": "Rule 8: Anti-Game Actions",
+            "content": "Actions that the administration deems anti-game (inappropriate or bad actions) will be subject to punishment, understood as: intentionally losing in the Grand Olympiad to give points to another character; interrupting or attempting to deceive automatic or administration-made events; Trying to deceive other players by offering fake items."
+          },
+          {
+            "title": "Rule 9: External Programs",
+            "content": "The external use of programs that interact with the game is strictly prohibited. For example, those used with the intention of using bots, auto farmer. Reports for these cases are open, attaching evidence, character name, the staff will sanction the same."
+          },
+          {
+            "title": "Rule 10: Administration Responsibility",
+            "content": "The administration and GMs are not responsible for loss of items, skills, etc., for any reason, whether server crashes or restarts, system errors, bugs, invasions, rollbacks, and/or user mishandling."
+          }
+        ],
+        "lastUpdate": "Last update: 03/09/2024"
+      }
+    }
+  },
+  "downloads": {
+    "title": "Downloads",
+    "description": "Get everything you need to start your adventure in the world of Lineage II",
+    "gameClient": {
+      "title": "Game Client",
+      "description": "Full game installation package",
+      "version": "Version:",
+      "size": "Size:",
+      "downloadGDrive": "Download from Google Drive",
+      "downloadMediaFire": "Download from MediaFire"
+    },
+    "l2JadeClient": {
+      "title": "L2 Jade Client",
+      "description": "Latest L2 Jade client",
+      "version": "Version:",
+      "size": "Size:",
+      "downloadGDrive": "Download from Google Drive",
+      "downloadMediaFire": "Download from MediaFire"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions or need assistance? Reach out to our support team",
+    "emailSupport": {
+      "title": "Email Support",
+      "email": "support@l2jade.com"
+    },
+    "liveChat": {
+      "title": "Live Chat",
+      "description": "Available 24/7 through the game client"
+    },
+    "connectWithUs": {
+      "title": "Connect With Us"
+    }
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved.",
+    "designedBy": "Designed by"
+  },
+  "voteButtons": {
+    "vote": "Vote"
+  }
+}
+
