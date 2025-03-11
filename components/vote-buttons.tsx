@@ -2,9 +2,34 @@
 
 import { useTranslation } from "react-i18next"
 import Image from "next/image"
+import { useEffect, useState } from "react"
 
 const VoteButtons = () => {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  // Escuchar cambios de idioma
+  useEffect(() => {
+    const handleLanguageChange = () => {
+      // Forzar actualización del componente
+      setMounted(false)
+      setTimeout(() => setMounted(true), 0)
+    }
+
+    i18n.on('languageChanged', handleLanguageChange)
+
+    return () => {
+      i18n.off('languageChanged', handleLanguageChange)
+    }
+  }, [i18n])
+
+  if (!mounted) {
+    return null
+  }
 
   return (
     <div className="fixed right-4 top-1/2 transform -translate-y-1/2 z-50">

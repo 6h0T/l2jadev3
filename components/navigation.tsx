@@ -39,10 +39,7 @@ export default function Navigation() {
   }
 
   const changeLanguage = (lng: string) => {
-    i18n.changeLanguage(lng).then(() => {
-      // Forzar la actualización de la interfaz
-      window.location.reload()
-    })
+    i18n.changeLanguage(lng)
   }
 
   const getLanguageName = (code: string) => {
