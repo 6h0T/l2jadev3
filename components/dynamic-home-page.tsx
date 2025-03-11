@@ -1,10 +1,10 @@
 "use client"
 
 import dynamic from "next/dynamic"
+import Preloader from "@/components/preloader"
 
 const DynamicHomePage = dynamic(() => import("@/components/home-page"), {
-  ssr: false,
-  loading: () => <div>Loading...</div>,
+  loading: () => <Preloader />,
 })
 
 export default function DynamicHomePageWrapper() {
