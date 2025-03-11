@@ -1,5 +1,5 @@
 import type { Metadata } from "next"
-import DynamicHomePageWrapper from "@/components/dynamic-home-page"
+import HomePage from "@/components/home-page"
 
 export const metadata: Metadata = {
   title: "L2JADE - Lineage 2 Private Server",
@@ -7,6 +7,6 @@ export const metadata: Metadata = {
 }
 
 export default function Home() {
-  return <DynamicHomePageWrapper />
+  return <HomePage />
 }
 
